@@ -1,0 +1,53 @@
+{
+  "site": {
+    "title": "Spilou",
+    "base_url": "https://spilou.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-dark.png",
+    "logo_width": "120",
+    "logo_height": "40",
+    "logo_text": "Spilou"
+  },
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "light",
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2025 Spilou. Tous droits réservés.",
+    "description": "Votre site web, créé en quelques heures. Simple. Moderne. Assisté par l'IA.",
+    "email": "contact@spilou.com",
+    "phone": "",
+    "address": ""
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Créer mon site",
+    "link": "/contact"
+  },
+  "disqus": {
+    "enable": false,
+    "shortname": ""
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "id": ""
+  },
+  "google_adsense": {
+    "enable": false,
+    "id": ""
+  },
+  "metadata": {
+    "meta_author": "Spilou",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Création de sites web express, modernes et paramétrables via ChatGPT. Solutions clés-en-main pour petits commerçants, entrepreneurs et indépendants."
+  }
+}

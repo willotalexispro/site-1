@@ -1,0 +1,50 @@
+{
+  "main": [
+    {
+      "name": "accueil",
+      "url": "/"
+    },
+    {
+      "name": "services",
+      "url": "/services"
+    },
+    {
+      "name": "à propos",
+      "url": "/about"
+    },
+    {
+      "name": "équipe",
+      "url": "/team"
+    },
+    {
+      "name": "blog",
+      "url": "/blog"
+    },
+    {
+      "name": "contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "à propos",
+      "url": "/about"
+    },
+    {
+      "name": "services",
+      "url": "/services"
+    },
+    {
+      "name": "blog",
+      "url": "/blog"
+    },
+    {
+      "name": "contact",
+      "url": "/contact"
+    },
+    {
+      "name": "mentions légales",
+      "url": "/legal"
+    }
+  ]
+}

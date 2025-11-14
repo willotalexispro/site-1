@@ -1,0 +1,79 @@
+---
+title: "notre équipe"
+meta_title: "équipe"
+description: "découvrez l'équipe derrière Spilou"
+draft: false
+---
+
+## l'équipe Spilou
+
+Nous sommes une équipe passionnée par le web, la technologie et l'innovation. Notre mission : rendre la création de sites web accessible à tous.
+
+### notre expertise
+
+Nous combinons des compétences variées pour vous offrir le meilleur service :
+
+**développement web** : maîtrise des technologies modernes (Astro, React, TailwindCSS)
+
+**design** : création d'interfaces épurées et efficaces
+
+**intelligence artificielle** : intégration de ChatGPT pour automatiser les modifications
+
+**accompagnement** : écoute et conseil pour répondre à vos besoins
+
+### notre philosophie
+
+**simplicité** : nous croyons que la technologie doit être au service de tous, pas réservée aux experts
+
+**rapidité** : nous savons que votre temps est précieux, c'est pourquoi nous livrons en 24-48h
+
+**qualité** : pas de compromis sur la performance et le design
+
+**innovation** : nous explorons constamment de nouvelles façons d'améliorer nos services
+
+### nos valeurs
+
+**transparence** : communication claire, prix honnêtes, pas de surprise
+
+**excellence** : chaque site est traité avec le même soin
+
+**écoute** : votre satisfaction est notre priorité
+
+**évolution** : nous nous adaptons à vos besoins et faisons évoluer nos services
+
+## pourquoi nous faire confiance
+
+### expérience
+
+Nous avons créé des dizaines de sites pour des commerçants, artisans et entrepreneurs de tous secteurs.
+
+### technologie
+
+Nous utilisons les outils les plus performants du marché pour garantir rapidité et fiabilité.
+
+### accompagnement
+
+Nous ne vous laissons pas seul. De la création à la gestion quotidienne, nous sommes là.
+
+### innovation
+
+Notre système de modification via ChatGPT est unique et simplifie vraiment la gestion de votre site.
+
+## rejoignez nos clients satisfaits
+
+Plus de 100 professionnels nous ont fait confiance pour leur présence web. Pourquoi pas vous ?
+
+### témoignages
+
+**Julien B.** - entrepreneur
+> "Spilou m'a créé un site en 24h, moderne, efficace et parfait pour mon activité d'indépendant."
+
+**Amélie D.** - commerçante
+> "Le système de modification via ChatGPT est bluffant. Je peux actualiser mon site sans rien comprendre à la technique."
+
+**Marc T.** - artisan
+> "Rapide, simple, professionnel. Je recommande à 100%."
+
+## travaillons ensemble
+
+Vous avez un projet ? Parlons-en. Nous sommes impatients de créer votre site web.

@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "instagram",
+      "icon": "FaInstagram",
+      "link": "#"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "#"
+    }
+  ]
+}
